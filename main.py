@@ -24,17 +24,17 @@ elif grade >= 73:
 elif grade >=  70:
     print("Your level grade is 3-.")
 elif grade >= 67:
-    print("your level grade is 2+.")
+    print("Your level grade is 2+.")
 elif grade >= 63:
-    print("your level grade is 2.")
+    print("Your level grade is 2.")
 elif grade >= 60:
-    print("your level grade is 2-.")
+    print("Your level grade is 2-.")
 elif grade >= 57:
     print("Your level grade is 1+.")
 elif grade >= 53:
-    print("your level grade is 1.")
+    print("Your level grade is 1.")
 elif grade >= 50:
     print("Your level grade is 1-.")
 elif grade < 50:
-    print("your level grade is R.")
+    print("Your level grade is R.")
 
