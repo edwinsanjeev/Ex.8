@@ -10,7 +10,8 @@ if grade < 0:
 print()
 
 if grade > 100:
-    print("Invalid percent!")
+    print("Invalid percent!", file=stderr)
+    exit()
 elif grade >= 95:
     print("Your level grade is 4+.")
 elif grade >= 87:
